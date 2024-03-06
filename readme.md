@@ -8,6 +8,7 @@ This project provides a foundational API for a social media application, leverag
 
 - [Installation] (#installation)
 - [Usage] (#usage)
+- [Video-Walkthrough] (#video-walkthrough)
 - [License] (#license)
 - [Questions] #questions
 
@@ -48,6 +49,9 @@ API Endpoints:
   - POST to add a new friend: /api/user/:userId/friends/:friendId
   - DELETE to remove a friend: /api/user/:userId/friends/:friendId
 
+## Video Walkthrough
+
+A video walkthrough of the application is available at: [Video Walkthrough](https://drive.google.com/file/d/1AjtxiM7aNRpdl3kQOFfA-dBeVCe3zyAY/view?usp=drive_link)
 
 ## License
 
